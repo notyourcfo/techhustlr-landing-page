@@ -37,18 +37,18 @@ export default function LandingPage() {
         "Tech Hustlr is my go-to for actionable insights. The breakdowns are clear, and the stories are super motivating!",
     },
     {
-      name: "Priya S.",
-      role: "Aspiring PM",
+      name: "Vasundhra",
+      role: "ML Engineer",
       img: "/placeholder-user.jpg",
       quote:
-        "I love the no-fluff approach. Every issue gives me something new to try or think about.",
+        "I love the raw approach. Every issue gives me something new to try or think about.",
     },
     {
-      name: "Jordan Lee",
-      role: "AI Enthusiast",
+      name: "shailili patel",
+      role: "Student, Berkeley",
       img: "/placeholder-user.jpg",
       quote:
-        "The newsletter keeps me ahead of the curve. I recommend it to all my friends!",
+        "It has actually help mme get right internship.",
     },
   ]
 
@@ -127,7 +127,7 @@ export default function LandingPage() {
             <h2 className="text-3xl font-bold tracking-tight md:text-4xl">What's this all about?</h2>
             <p className="text-lg text-muted-foreground">
               Look, I'm just a curious student trying to stay ahead of the AI wave. Every week, I break down the tools, trends, and career tips that I'm actually using and learning from.<br />
-              No fancy corporate speak, no fluff—just real insights from someone who's still figuring it all out too.
+              No fancy corporate speak, no fluff, just real insights from someone who's still figuring it all out too.
             </p>
           </div>
         </section>
